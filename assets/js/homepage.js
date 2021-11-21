@@ -11,4 +11,5 @@ var getUserRepos = function(user) {
 
 };
 
+// Executing function
 getUserRepos();
